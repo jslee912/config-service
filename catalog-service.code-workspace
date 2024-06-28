@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../catalog-service"
+		},
+		{
+			"path": "../config-repo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../polar-deployment"
+		}
+	]
+}
